@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several propositions propovnded by His Excellencie, the Earl of Essex to the cavaleees [sic] neere Darby-shire, September the 21, 1642 being very fit and necessary to be published throughout the kingdomes of England and Scotland : together with a true relation of a famous sea-fight performed by Van Trump the Dutch admirall with ten ships against the Spanish fleet, being going to assist the rebels in Ireland with men and ammunition : with the manner of his obtaining the victory and after 11 hours fight took ten of the Spanish ships and put the rest to flight : reported to the House of Commons, Septem. 20.</title>
+            <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22595</idno>
+            <idno type="STC">Wing E3331</idno>
+            <idno type="EEBO-CITATION">12299050</idno>
+            <idno type="OCLC">ocm 12299050</idno>
+            <idno type="VID">197666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197666)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E118, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several propositions propovnded by His Excellencie, the Earl of Essex to the cavaleees [sic] neere Darby-shire, September the 21, 1642 being very fit and necessary to be published throughout the kingdomes of England and Scotland : together with a true relation of a famous sea-fight performed by Van Trump the Dutch admirall with ten ships against the Spanish fleet, being going to assist the rebels in Ireland with men and ammunition : with the manner of his obtaining the victory and after 11 hours fight took ten of the Spanish ships and put the rest to flight : reported to the House of Commons, Septem. 20.</title>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. White,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>September 21, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197666:1" rendition="simple:additions"/>
+            <p>SEVERAL PROPOSITIONS PROPOVNDED, By his Excellencie, the Earl of <hi>Eſſex,</hi> to the Cavaleees, neere Darby-ſhire, September the 21. 1642. being very fit and neceſſary to be publiſhed throughout the King<g ref="char:EOLhyphen"/>domes of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Together with a true Relation of a famous Sea-fight, performed by Van Trump the Dutch Admirall with ten ſhips, againſt the Spaniſh fleet, being going to aſſiſt the Bebels in <hi>Ireland,</hi> with men and ammunition.</p>
+            <p>With the manner of his obtaining the Victory, and after 11. hours fight took ten of the Spaniſh ſhips, and put the reſt to flight.</p>
+            <p>Reported to the Houſe of Commons, Septem. 20.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>printer's device consisting of a central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles, all of these figures enclosed within a rectangle flanked by angel on the left and right</figDesc>
+            </figure>
+            <p>Printed for <hi>I White, September</hi> 21, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:197666:2"/>
+            <pb facs="tcp:197666:2"/>
+            <head>A true RELATION OF A Famous Sea-fight, performed by <hi>Van Trump</hi> the Dutch Admirall, with eight ſayl of ſhips, againſt ſeventeen Spaniſh ſhips that were going to aid the Rebels in Ireland.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the 20 day of this month Letters came to the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Com<g ref="char:EOLhyphen"/>mons, ſignifying, that the Hollander hath obtai<g ref="char:EOLhyphen"/>ned a great Victory over the Spaniſh fleet that were going to aid and aſſiſt the Re<g ref="char:EOLhyphen"/>bels
+<pb facs="tcp:197666:3"/>in <hi>Ireland,</hi> being in number 17. luſty ſhips, as is manifeſtly declared in theſe in<g ref="char:EOLhyphen"/>ſuing particulars,</p>
+            <p>The States of Holland having received information, that a great Navie of Spaniſh ſhips lay at <hi>Dunkirke</hi> ready to lance forth, which was ſuppoſed, either for ſome De<g ref="char:EOLhyphen"/>ſign againſt <hi>England,</hi> or elſe for the reliefe of the Rebels in <hi>Ireland,</hi> and after ſome conſultation therupon, they fort with diſ<g ref="char:EOLhyphen"/>patched a Meſſenger to <hi>Van Trump</hi> Admi<g ref="char:EOLhyphen"/>rall of their Navie, deſiring his care and vigilancie therein.</p>
+            <p>The ſaid <hi>Van-Trump</hi> had no ſooner re<g ref="char:EOLhyphen"/>ceived this Newes from his Maſters the States of <hi>Holland,</hi> but with all expedition, he ſent 10 luſty ſhips, himſelf going in perſon alſo, and having ſayled for the ſpace of 7 hours, he eſpyed the Spaniſh fleet, who making after them with full ſpeed, and be<g ref="char:EOLhyphen"/>ing within half a league of them, the <hi>Spa<g ref="char:EOLhyphen"/>niard</hi> though it a great diſparagement to flye, by reaſon they did exceed them in number. Wherupon the Spanyards prepa<g ref="char:EOLhyphen"/>red themſelves, and made them ready for
+<pb facs="tcp:197666:3"/>Battle, and as ſoon as <hi>Van-trump</hi> came with<g ref="char:EOLhyphen"/>in Canon-ſhot, the Spanyards let fly many pieces of Ordnance to welcome him, thin<g ref="char:EOLhyphen"/>king the day their own.</p>
+            <p>But the Hollanders took the ſame Re<g ref="char:EOLhyphen"/>ſolution, as they have formerly done in the Weſt-Indies, and divers other places at Sea, reſolving to fight it out to the laſt man, which indeed are brave teſtimonies for all other Marriners.</p>
+            <p>
+               <hi>Van-Trump</hi> ſeeing the Spanyards begin ſo furiouſly, cauſed his Vice-Admirall and two more to play againſt them with their Broad-ſide, which made the Spaniſh Ad<g ref="char:EOLhyphen"/>mirall, and ſome others, glad to fall backe, and for 8. or 9. hours the fight continued very hot, much blood being ſhen on both ſides, till <hi>Van Trump</hi> with the Admirall came up, playing with his great Ordnance againſt them, inſomuch that he boorded the Spaniſh Admirall twice, and at laſt took 11 of their ſhips, together with great ſtore of men and ammunition, and put the other 6. to flight.</p>
+         </div>
+         <div type="propositions">
+            <pb facs="tcp:197666:4"/>
+            <head>The Earle of Eſſex his Propoſisions to the Cavalees, Sep. 21.</head>
+            <p>ON the 22. of this month there came a Poſt from his Excellency the Earle of <hi>Eſsex,</hi> declaring many Defeates and Overthrowes given to the Cavaleers, by his Excellency, and that ſince his firſt advancing his Army from <hi>Norhampton,</hi> he hath had very good ſucceſſe, in all places where he hath bin as yet, the Cavaleers not daring to withſtand him.</p>
+            <p>Wherupon, the Earl of <hi>Cumberland,</hi> the Earl of <hi>Lindſey,</hi> the Lord <hi>Strange,</hi> and di<g ref="char:EOLhyphen"/>vers others, have ſent out Warrants to all the Cavaleeers now reſident in the Nor<g ref="char:EOLhyphen"/>thern parts of this Iland, to make their ap<g ref="char:EOLhyphen"/>pearance upon the 21. of this month at a place called Stokes Green in <hi>Lincolnſhire,</hi> giving them ſtrict Command, not to fayl at the day prefixed.</p>
+            <pb facs="tcp:197666:4"/>
+            <p> And the ſaid Commiſſioners are reſol<g ref="char:EOLhyphen"/>ved at the meeting, to joyn their Forces in a full body, and march againſt the Earl of <hi>Eſſex,</hi> otherwiſe, they feare that their hopes will be quite fruſtrated.</p>
+            <p>But ſuch is the courage of the London Volunteers, and pious Branches, that their hearts are filled with joy, when they hear that they muſt go to battell; for they have all with a generall conſent ſet down their Reſolution, either to loſe their lives, or winne Fame, before they return to <hi>London.</hi> For they depend wholly upon their cauſe, although ſome depends upon their power and ſtrength.</p>
+            <p>His Excellency the Earl of <hi>Eſſex,</hi> after he had advanced his Forces from <hi>Norhamp<g ref="char:EOLhyphen"/>ton,</hi> took his Journey towards <hi>Darbiſhire,</hi> but before he came to the ſaid County, hee had information that about 2000 Cavaleers were billeted neer to the ſaid City, where having received this Newes, he marched to the Cavaleers, and propounded theſe fol<g ref="char:EOLhyphen"/>lowing particulars to them.
+<list>
+                  <pb facs="tcp:197666:5"/>
+                  <item>1. That they would deliver up their Arms, and reſign them to his Excellencies Cuſtody.</item>
+                  <item>2. That in ſo doing, hee would give every man of them free leave to go home to his own dwelling.</item>
+                  <item>3. That thoſe which did withſtand him, and refuſed to agree to his Demands, ſhould ſtand to his mercy.</item>
+               </list>
+            </p>
+            <p>Theſe are the Propoſitions which his Excellency propounded to the Cavaleers at their meeting.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
